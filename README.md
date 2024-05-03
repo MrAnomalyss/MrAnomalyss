@@ -1,5 +1,5 @@
 <h1>Hola, Soy MrAnomalyss</h1>
-<h3>Im currently learning **Javascript**</h3>
+<h3>Im currently learning Javascript</h3>
 <img src="https://img.shields.io/github/followers/MrAnomalyss.svg?style=social&label=Follow&maxAge=2592000">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <div class="image-container">
