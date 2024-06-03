@@ -1,6 +1,6 @@
 <h1>Hola, Soy MrAnomalyss</h1>
 <h3>Im currently Working on W1S</h3>
-<h1>Supporthttps://discord.gg/xaqkBdY8yC</h1>
+<h1>Support: discord.gg/xaqkBdY8yC</h1>
 <img src="https://img.shields.io/github/followers/MrAnomalyss.svg?style=social&label=Follow&maxAge=2592000">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
 <div class="image-container">
